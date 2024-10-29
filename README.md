@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou o Pedro ou PeeW no Counter-Strike.
 - 👀 Meu objetivo atual é aprender  a programar e entrar no mercado de devs..
-- 🌱 Atualmente estou aprender Java Script e nodeJS
+- 🌱 Atualmente estou aprendendo Java Script e nodeJS
 - 💞️ Estou focado no momento em criar pequenos projetos pessoais.
 - 📫 Instagram: @pedromsm 
